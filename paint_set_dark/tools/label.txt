@@ -1,0 +1,5 @@
+brush paint_tool.png center 0 -60
+fill tools.png center 0 -74
+erase tools.png center -41 -34
+pencil tools.png center -41 -74
+select image_tools.png center -49 -68
